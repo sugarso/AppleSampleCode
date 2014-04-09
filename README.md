@@ -17,7 +17,7 @@ Apple Sample Code
 ##### Mac
  - [AVCompositionDebugViewer](https://github.com/sugarso/com.apple.AVCompositionDebugViewer) - Presents a visual description of the underlying AVComposition, AVVideoComposition and AVAudioMix objects forming composition made using two clips, adding a cross fade transition in between and audio ramps to the two audio tracks.
 
-> Remember that a pull request is only a small step for you but a giant leap for the community.
+*p.s. A pull request is only a small step for you, but a giant leap for the community.*
 
 [1]: https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code
 [2]: https://developer.apple.com/library/mac/navigation/index.html#topic=Sample+Code&section=Resource+Types
