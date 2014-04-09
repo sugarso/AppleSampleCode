@@ -17,6 +17,8 @@ Github clone of Apple released source code for [Mac][2] & [iOS][1].
    * AVCam demonstrates usage of AV Foundation capture API for recording movies, taking still images, and switching cameras.
  * [AVPlayerDemo](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/AVPlayerDemo) 
    * Uses AVPlayer to play videos from iPod Library, Camera Roll, or via iTunes File Sharing.
+ * [AVCompositionDebugVieweriOS](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/AVCompositionDebugVieweriOS)
+   * This sample application has an AVCompositionDebugView which presents a visual description of the underlying AVComposition, AVVideoComposition and AVAudioMix objects which form the composition made using two clips, adding a cross fade transition in between and audio ramps to the two audio tracks. The visualization provided by the sample can be used as a debugging tool to discover issues with an incorrect composition/video composition. For example: a break in video composition would render black frames to screen, which can easily be detected using the visualization in the sample.
 
 ###### Mac
  * [AVCompositionDebugViewer](https://github.com/sugarso/AppleSampleCode/tree/master/Mac/AVFoundation/AVCompositionDebugViewer)
