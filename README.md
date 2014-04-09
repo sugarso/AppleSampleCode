@@ -3,7 +3,7 @@ Apple Sample Code
 
 ###### This Repository
 
->This repository is a mirror of Apple's released source code for [iOS][1] & [Mac][2]. 
+>Github clone of Apple released source code for [iOS][1] & [Mac][2]. 
 >It's useful in tracking sample code updates which contain bug fixes, new features, syntax and co.
 >It is being updated with each new upstream release, combined with github rad UI for tracking changes this creates an awesome way to merge fixes made by apple back into your project.
 
