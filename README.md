@@ -9,7 +9,7 @@ Apple Sample Code
 
 *p.s. A pull request is only a small step for you, but a giant leap for the community.*
 
-#### AVFoundation
+# AVFoundation
 ###### iOS
  * [SquareCam](https://github.com/sugarso/com.apple.SquareCam)
    * SquareCam demonstrates improvements to the AVCaptureStillImageOutput class in iOS 5
