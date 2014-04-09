@@ -19,7 +19,7 @@ Apple Sample Code
    * Uses AVPlayer to play videos from iPod Library, Camera Roll, or via iTunes File Sharing.
 
 ###### Mac
- * [AVCompositionDebugViewer](https://github.com/sugarso/com.apple.AVCompositionDebugViewer)
+ * [AVCompositionDebugViewer](https://github.com/sugarso/AppleSampleCode/tree/master/Mac/AVFoundation/AVCompositionDebugViewer)
    * Presents a visual description of the underlying AVComposition, AVVideoComposition and AVAudioMix objects forming composition made using two clips, adding a cross fade transition in between and audio ramps to the two audio tracks.
 
 
