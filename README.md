@@ -8,11 +8,13 @@ Apple Sample Code
 >It is being updated with each new upstream release, combined with github rad UI for tracking changes this creates an awesome way to merge fixes made by apple back into your project.
 
 
-## AVFoundation
-
+### AVFoundation
+##### iOS
  - [SquareCam](https://github.com/sugarso/com.apple.SquareCam) - SquareCam demonstrates improvements to the AVCaptureStillImageOutput class in iOS 5
  - [AVCam](https://github.com/sugarso/com.apple.AVCam) - AVCam demonstrates how to use the AV Foundation capture APIs for recording movies and taking still images.
  - [AVPlayerDemo](https://github.com/sugarso/com.apple.AVPlayerDemo) - Uses AVPlayer to play videos from iPod Library, Camera Roll, or via iTunes File Sharing.
+
+##### Mac
  - [AVCompositionDebugViewer](https://github.com/sugarso/com.apple.AVCompositionDebugViewer) - Presents a visual description of the underlying AVComposition, AVVideoComposition and AVAudioMix objects forming composition made using two clips, adding a cross fade transition in between and audio ramps to the two audio tracks.
 
 > Remember that a pull request is only a small step for you but a giant leap for the community.
