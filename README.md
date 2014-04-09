@@ -1,4 +1,4 @@
-Apple Sample Code Index
+Apple Sample Code
 ===============
 
 ###### This Repository
