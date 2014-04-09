@@ -3,9 +3,9 @@ Apple Sample Code Index
 
 ###### This Repository
 
->This repository is a mirror of Apple's released [source code][1]. 
->It is being updated with each new upstream release.
->Intended to be a service for the community to help track updated and bug fixes in Apple's released demo code revisions.
+>This repository is a mirror of Apple's released source code[iOS][1], [Mac][2]. 
+>We use this to track update made by apple containing bug fixes, new features, syntax updates and co.
+>It is being updated with each new upstream release, combined with github rad UI for tracking changes this creates an awesome way to port chnages made by apple into your project.
 
 
 ## AVFoundation
@@ -16,3 +16,4 @@ Apple Sample Code Index
  - [AVCompositionDebugViewer](https://github.com/sugarso/com.apple.AVCompositionDebugViewer) - Presents a visual description of the underlying AVComposition, AVVideoComposition and AVAudioMix objects forming composition made using two clips, adding a cross fade transition in between and audio ramps to the two audio tracks.
  
 [1]: https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code
+[2]: https://developer.apple.com/library/mac/navigation/index.html#topic=Sample+Code&section=Resource+Types
