@@ -1,7 +1,6 @@
-Apple Sample Code
+Apple Publicly Released Sample Code Index
 ===============
 
-Apple Publicly Released Sample Code Index.
 
 ## AVFoundation
 
