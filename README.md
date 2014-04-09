@@ -5,7 +5,7 @@ Apple Sample Code
 
 >This repository is a mirror of Apple's released source code for [iOS][1] & [Mac][2]. 
 >We use this to track update made by apple containing bug fixes, new features, syntax updates and co.
->It is being updated with each new upstream release, combined with github rad UI for tracking changes this creates an awesome way to port chnages made by apple into your project.
+>It is being updated with each new upstream release, combined with github rad UI for tracking changes this creates an awesome way to merge fixes made by apple back into your project.
 
 
 ## AVFoundation
