@@ -1,10 +1,11 @@
 Apple Sample Code
 ===============
 
-Apple released source code projects index showing demos and implementation details for [Mac][2] & [iOS][1] apps.
 >For isolating changes and merging fixes made by apple back into your own projects.
 
-*p.s. A pull request is only a small step for you, but a giant leap for the community.*
+Apple released source code projects index showing demos and implementation details for [Mac][2] & [iOS][1] apps.
+
+*Pull request is only a small step for you, but a giant leap for the community. We love em.*
 
 # AVFoundation
 ###### iOS
