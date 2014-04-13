@@ -2,10 +2,11 @@ Apple Sample Code
 ===============
 
 Github clone of Apple released source code projects showing demos and implementation details for [Mac][2] & [iOS][1].
+For isolating revisions and merging fixes made by apple back into your own projects.
 
-###### This Repository
->Useful for tracking sample code updates such as bug fixes, new features, syntax revisions and co. made by apple for it's source code.
->We keep it in sync with each new upstream release. Combined with github **rad** UI for tracking changes this creates an awesome way to identify & merge fixes made by apple back into your own projects.
+##### This Repository
+>Kept it in sync with Apple code updates.
+>Useful for tracking changes such as bug fixes, new features, syntax evolution and co. 
 
 *p.s. A pull request is only a small step for you, but a giant leap for the community.*
 
