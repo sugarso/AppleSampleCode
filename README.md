@@ -1,7 +1,7 @@
 Apple Sample Code
 ===============
 
-Github clone of Apple released source code projects showing demos and implementation details for [Mac][2] & [iOS][1] apps.
+Apple released source code projects index showing demos and implementation details for [Mac][2] & [iOS][1] apps.
 
 >>>For isolating revisions and merging fixes made by apple back into your own projects.
 Kept it in sync with Apple code updates. Useful for tracking changes such as bug fixes, new features, syntax evolution and co. 
