@@ -8,9 +8,10 @@ Showing demos and implementation details for [Mac][2] & [iOS][1] apps.
 
 AVFoundation
 ------------
-###### iOS
-[SquareCam](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/SquareCam)  
-SquareCam demonstrates improvements to the AVCaptureStillImageOutput class in iOS 5
+#### iOS
+#### [SquareCam](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/SquareCam)  
+>SquareCam demonstrates improvements to the AVCaptureStillImageOutput class in iOS 5  
+>Upstream latest [1.0.1, 2013-04-04](https://developer.apple.com/library/ios/samplecode/SquareCam/Introduction/Intro.html)   
 
 [AVCam](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/AVCam)  
 AVCam demonstrates usage of AV Foundation capture API for recording movies, taking still images, and switching cameras.
