@@ -1,5 +1,5 @@
 Apple Sample Code
-===============
+=================
 
 >For isolating changes and merging fixes made by apple back into your own projects.
 
@@ -7,7 +7,8 @@ Apple released source code projects index showing demos and implementation detai
 
 *Pull request is only a small step for you, but a giant leap for the community. We love em.*
 
-# AVFoundation
+AVFoundation
+------------
 ###### iOS
 [SquareCam](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/SquareCam)  
 SquareCam demonstrates improvements to the AVCaptureStillImageOutput class in iOS 5
@@ -28,7 +29,8 @@ The avTouch sample demonstrates use of the AVAudioPlayer class for basic audio p
 [AVCompositionDebugViewer](https://github.com/sugarso/AppleSampleCode/tree/master/Mac/AVFoundation/AVCompositionDebugViewer)  
 Presents a visual description of the underlying AVComposition, AVVideoComposition and AVAudioMix objects forming composition made using two clips, adding a cross fade transition in between and audio ramps to the two audio tracks.
 
-# SystemConfiguration
+SystemConfiguration
+-------------------
 ###### iOS
 [Reachability](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/SystemConfiguration/Reachability)  
 The Reachability sample application demonstrates how to use the SystemConfiguration framework to monitor the network state of an iOS device.
