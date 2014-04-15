@@ -8,7 +8,7 @@ Showing demos and implementation details for [Mac][2] & [iOS][1] apps.
 
 AVFoundation
 ------------
-#### iOS
+### iOS
 #### [SquareCam](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/SquareCam)  
 >SquareCam demonstrates improvements to the AVCaptureStillImageOutput class in iOS 5  
 >Upstream latest [1.0.1, 2013-04-04](https://developer.apple.com/library/ios/samplecode/SquareCam/Introduction/Intro.html)
@@ -29,16 +29,18 @@ AVFoundation
 >The avTouch sample demonstrates use of the AVAudioPlayer class for basic audio playback.  
 >Upstream latest [1.4.3, 2014-02-12](https://developer.apple.com/library/ios/samplecode/avTouch/Introduction/Intro.html)
 
-#### Mac
+### Mac
 #### [AVCompositionDebugViewer](https://github.com/sugarso/AppleSampleCode/tree/master/Mac/AVFoundation/AVCompositionDebugViewer)  
 >Presents a visual description of the underlying AVComposition, AVVideoComposition and AVAudioMix objects forming composition made using two clips, adding a cross fade transition in between and audio ramps to the two audio tracks.  
 >Upstream latest [1.1, 2013-06-07](https://developer.apple.com/library/mac/samplecode/AVCompositionDebugViewer/Introduction/Intro.html)
 
 SystemConfiguration
 -------------------
-###### iOS
-[Reachability](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/SystemConfiguration/Reachability)  
-The Reachability sample application demonstrates how to use the SystemConfiguration framework to monitor the network state of an iOS device.
+### iOS
+#### [Reachability](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/SystemConfiguration/Reachability)  
+>The Reachability sample application demonstrates how to use the SystemConfiguration framework to monitor the network state of an iOS device.  
+>Upstream latest [3.5, 2014-02-04](https://developer.apple.com/Library/ios/samplecode/Reachability/Introduction/Intro.html)
+
 
 [1]: https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code
 [2]: https://developer.apple.com/library/mac/navigation/index.html#topic=Sample+Code&section=Resource+Types
