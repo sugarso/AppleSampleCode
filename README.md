@@ -22,7 +22,7 @@ AVFoundation
 >Upstream latest [1.2, 2013-06-07](https://developer.apple.com/library/ios/samplecode/AVPlayerDemo/Introduction/Intro.html)
 
 #### [AVCompositionDebugVieweriOS](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/AVCompositionDebugVieweriOS)  
->Presents a visual description of the underlying AVComposition, AVVideoComposition and AVAudioMix objects which form the composition made using two clips, adding a cross fade transition in between and audio ramps to the two audio tracks.  
+>An AVFoundation sample to visualize AVComposition, AVVideoComposition and AVAudioMix objects.    
 >Upstream latest [1.1, 2014-03-11](https://developer.apple.com/library/ios/samplecode/AVCompositionDebugVieweriOS/Introduction/Intro.html)
 
 #### [avTouch](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/avTouch)  
