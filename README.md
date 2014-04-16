@@ -31,7 +31,7 @@ AVFoundation
 
 ### Mac
 #### [AVCompositionDebugViewer](https://github.com/sugarso/AppleSampleCode/tree/master/Mac/AVFoundation/AVCompositionDebugViewer)  
->Presents a visual description of the underlying AVComposition, AVVideoComposition and AVAudioMix objects forming composition made using two clips, adding a cross fade transition in between and audio ramps to the two audio tracks.  
+>An AVFoundation sample to visualize AVComposition, AVVideoComposition and AVAudioMix objects.  
 >Upstream latest [1.1, 2013-06-07](https://developer.apple.com/library/mac/samplecode/AVCompositionDebugViewer/Introduction/Intro.html)
 
 UIKit
