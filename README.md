@@ -34,6 +34,14 @@ AVFoundation
 >Presents a visual description of the underlying AVComposition, AVVideoComposition and AVAudioMix objects forming composition made using two clips, adding a cross fade transition in between and audio ramps to the two audio tracks.  
 >Upstream latest [1.1, 2013-06-07](https://developer.apple.com/library/mac/samplecode/AVCompositionDebugViewer/Introduction/Intro.html)
 
+UIKit
+-----
+### iOS
+#### [AlternateViews](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/UIKit/AlternateViews)  
+>This sample demonstrates how to implement alternate or distinguishing views for particular device orientations. Doing so can be useful if your app displays different content between orientations or if your app uses vastly different layouts between orientations which cannot be reconciled by auto layout or programatic layout alone.  
+>Upstream latest [1.3, 2014-04-02](https://developer.apple.com/library/ios/samplecode/AlternateViews/Introduction/Intro.html)
+
+
 SystemConfiguration
 -------------------
 ### iOS
