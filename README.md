@@ -38,7 +38,7 @@ UIKit
 -----
 ### iOS
 #### [AlternateViews](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/UIKit/AlternateViews)  
->This sample demonstrates how to implement alternate or distinguishing views for particular device orientations. Doing so can be useful if your app displays different content between orientations or if your app uses vastly different layouts between orientations which cannot be reconciled by auto layout or programatic layout alone.  
+>Demonstrates how to implement alternate or distinguishing views for particular device orientations.  
 >Upstream latest [1.3, 2014-04-02](https://developer.apple.com/library/ios/samplecode/AlternateViews/Introduction/Intro.html)
 
 
@@ -46,7 +46,7 @@ SystemConfiguration
 -------------------
 ### iOS
 #### [Reachability](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/SystemConfiguration/Reachability)  
->The Reachability sample application demonstrates how to use the SystemConfiguration framework to monitor the network state of an iOS device.  
+>hows how to monitor network state and host reachability.  
 >Upstream latest [3.5, 2014-02-04](https://developer.apple.com/Library/ios/samplecode/Reachability/Introduction/Intro.html)
 
 
