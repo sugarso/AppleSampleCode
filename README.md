@@ -27,7 +27,7 @@ AVFoundation
 
 #### [avTouch](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/avTouch)  
 >avTouch demonstrates how to play an audio file using the AVAudioPlayer class.  
->_Update 1.4.3, 2014-02-12 / [Direct link](https://developer.apple.com/library/ios/samplecode/avTouch/Introduction/Intro.html)_
+>_Update [1.4.3](https://developer.apple.com/library/ios/samplecode/avTouch/Introduction/Intro.html), 2014-02-12_
 
 ### Mac
 #### [AVCompositionDebugViewer](https://github.com/sugarso/AppleSampleCode/tree/master/Mac/AVFoundation/AVCompositionDebugViewer)  
