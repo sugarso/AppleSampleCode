@@ -14,7 +14,7 @@ AVFoundation
 >Upstream latest [1.0.1, 2013-04-04](https://developer.apple.com/library/ios/samplecode/SquareCam/Introduction/Intro.html)
 
 #### [AVCam](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/AVCam)  
->AVCam demonstrates usage of AV Foundation capture API for recording movies, taking still images, and switching cameras.  
+>AVCam demonstrates usage of AV Foundation capture API for recording movies and taking still images.    
 >Upstream latest [3.1, 2014-02-03](https://developer.apple.com/library/ios/samplecode/AVCam/Introduction/Intro.html)
 
 #### [AVPlayerDemo](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/AVPlayerDemo)  
