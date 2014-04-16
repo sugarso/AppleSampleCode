@@ -26,7 +26,7 @@ AVFoundation
 >Upstream latest [1.1, 2014-03-11](https://developer.apple.com/library/ios/samplecode/AVCompositionDebugVieweriOS/Introduction/Intro.html)
 
 #### [avTouch](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/avTouch)  
->The avTouch sample demonstrates use of the AVAudioPlayer class for basic audio playback.  
+>avTouch demonstrates how to play an audio file using the AVAudioPlayer class.  
 >Upstream latest [1.4.3, 2014-02-12](https://developer.apple.com/library/ios/samplecode/avTouch/Introduction/Intro.html)
 
 ### Mac
