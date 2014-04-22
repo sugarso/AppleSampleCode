@@ -3,8 +3,7 @@ Apple Sample Code
 
 >For isolating changes and merging fixes made by apple back into your own projects.
 
-Apple released sample source code projects tracker.  
-Showing demos and implementation details for [Mac][2] & [iOS][1] apps.  
+Collection of Apple sample source code projects, contains demos and implementation details for [Mac][2] & [iOS][1] applications and technologies.
 
 AVFoundation
 ------------
