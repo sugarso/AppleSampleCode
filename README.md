@@ -40,6 +40,9 @@ UIKit
 >Demonstrates how to implement alternate or distinguishing views for particular device orientations.  
 >_Update [1.3](https://developer.apple.com/library/ios/samplecode/AlternateViews/Introduction/Intro.html), 2014-04-02_
 
+#### [TheElements](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/UIKit/TheElements)  
+>TheElements is a sample application that provides access to the data contained in the Periodic Table of the Elements.   
+>_Update [1.12](https://developer.apple.com/library/ios/samplecode/TheElements/Introduction/Intro.html), 2013-04-11_
 
 SystemConfiguration
 -------------------
