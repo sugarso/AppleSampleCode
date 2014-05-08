@@ -28,6 +28,10 @@ _Update [1.1](https://developer.apple.com/library/ios/samplecode/AVCompositionDe
 avTouch demonstrates how to play an audio file using the AVAudioPlayer class.  
 _Update [1.4.3](https://developer.apple.com/library/ios/samplecode/avTouch/Introduction/Intro.html), 2014-02-12_
 
+### [StopNGo for iOS](https://github.com/sugarso/AppleSampleCode/tree/master/iOS/AVFoundation/StopNGo)
+StopNGo is a simple stop-motion animation QuickTime movie recorder that uses AVFoundation.   
+_Update [1.0.1](https://developer.apple.com/library/ios/samplecode/StopNGo/Introduction/Intro.html), 2011-10-12_
+
 ### Mac
 ### [AVCompositionDebugViewer](https://github.com/sugarso/AppleSampleCode/tree/master/Mac/AVFoundation/AVCompositionDebugViewer)  
 An AVFoundation sample to visualize AVComposition, AVVideoComposition and AVAudioMix objects.  
