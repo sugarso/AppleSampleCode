@@ -1,9 +1,7 @@
 Apple Sample Code
 =================
-
->For isolating changes and merging fixes made by apple back into your own projects.
-
-Collection of Apple sample source code projects, contains demos and implementation details for [Mac][2] & [iOS][1] applications and technologies.
+Contains example projects for both [Mac][2] and [iOS][1] applications and technologies.   
+>For isolating fixes made by apple and harmlessly merging them back into your own projects.
 
 AVFoundation
 ============
