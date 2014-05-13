@@ -1,6 +1,6 @@
 Apple Sample Code
 =================
-Contains example projects for both [Mac][2] and [iOS][1] applications and technologies.   
+Example projects for both [Mac][2] and [iOS][1] applications and technologies.   
 >For isolating fixes made by apple and harmlessly merging them back into your own projects.
 
 AVFoundation
