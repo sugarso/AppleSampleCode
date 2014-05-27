@@ -1,7 +1,6 @@
 # Apple Sample Code
 
-Example projects for both [Mac][1] and [iOS][2] applications and
-technologies.   
+Up to date tracker of apple examples for [Mac][1] and [iOS][2]
 >For isolating fixes made by apple and harmlessly merging them back into
 your own projects.
 
