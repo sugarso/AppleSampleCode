@@ -1,6 +1,6 @@
 # Apple Sample Code
 
-Up to date tracker of apple examples for [Mac][1] and [iOS][2]    
+Organized and accecible list of example code for [Mac][1] and [iOS][2] released by Apple.     
 >For isolating fixes made by apple and harmlessly merging them back into
 your own projects.
 
