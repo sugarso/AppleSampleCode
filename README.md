@@ -1,6 +1,6 @@
 # Apple Sample Code
 
-Organized and accecible list of example code for [Mac][1] and [iOS][2] released by Apple.     
+Organized and accecible [Mac][1] and [iOS][2] example projects collection.     
 >For isolating fixes made by apple and harmlessly merging them back into
 your own projects.
 
