@@ -1,5 +1,5 @@
 # Apple Sample Code
-Organized and accecible [Mac][1] and [iOS][2] sample code projects released by Apple. Made for humans.     
+Organized and accecible [Mac][1] and [iOS][2] sample code projects released by Apple.     
 >For isolating fixes made by apple and harmlessly merging them back into
 your own projects.
 
