@@ -1,8 +1,9 @@
-Organized and accecible [Mac][1] and [iOS][2] sample code projects. Made for humans.     
+# Apple Sample Code
+Organized and accecible [Mac][1] and [iOS][2] sample code projects released by Apple. Made for humans.     
 >For isolating fixes made by apple and harmlessly merging them back into
 your own projects.
 
-# AVFoundation
+## AVFoundation
 
 ### iOS
 
@@ -50,7 +51,7 @@ An AVFoundation sample to visualize AVComposition, AVVideoComposition
 and AVAudioMix objects.  
 *Update [1.1][16], 2013-06-07*
 
-# UIKit
+## UIKit
 
 ### iOS
 
@@ -66,7 +67,7 @@ TheElements is a sample application that provides access to the data
 contained in the Periodic Table of the Elements.   
 *Update [1.12][20], 2013-04-11*
 
-# SystemConfiguration
+## SystemConfiguration
 
 ### iOS
 
