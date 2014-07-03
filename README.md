@@ -1,5 +1,3 @@
-# Welcome
-
 Organized and accecible [Mac][1] and [iOS][2] sample code projects. Made for humans.     
 >For isolating fixes made by apple and harmlessly merging them back into
 your own projects.
