@@ -1,4 +1,3 @@
-# Apple Sample Code
 Organized to be accessible repository of [Mac][1] and [iOS][2] sample code projects.     
 >For isolating fixes made by apple and harmlessly merging them back into
 your own projects.
